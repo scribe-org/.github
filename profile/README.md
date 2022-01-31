@@ -4,4 +4,4 @@ Scribe[<sup>1</sup>](https://en.wikipedia.org/wiki/Scribe) is a community of lan
 
 We strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/) that it's based on, coders and open-source supporters of any level are welcome!
 
-- [1] [Wikipedia article on scribes.](https://en.wikipedia.org/wiki/Scribe)
+- [1] [Wikipedia article on scribes](https://en.wikipedia.org/wiki/Scribe).
