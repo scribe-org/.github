@@ -3,6 +3,8 @@
 [![logo](https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png)](https://github.com/scribe-org)
 [![ios](https://img.shields.io/badge/iOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/scribe-org/Scribe-iOS)
 [![android](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Android)
+[![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
+[![data](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/scribe_org)
 
 Scribe[<sup>[1]</sup>](https://en.wikipedia.org/wiki/Scribe) is a community of language enthusiasts, learners and developers creating tools to help people communicate with confidence. Our current project is [Scribe-iOS](https://github.com/scribe-org/Scribe-iOS), a pack of iOS and iPadOS keyboards with features including translation, verb conjugation and word annotation. Creating an MVP for [Scribe-Android](https://github.com/scribe-org/Scribe-Android) is now a focus, and [Scribe-Desktop](https://github.com/scribe-org/Scribe-Desktop) will follow.
