@@ -3,7 +3,7 @@
 [![logo](https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png)](https://github.com/scribe-org)
 [![ios](https://img.shields.io/badge/iOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/scribe-org/Scribe-iOS)
 [![android](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Android)
-[![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
+[![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Desktop)
 [![data](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/scribe_org)
 
