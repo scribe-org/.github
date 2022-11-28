@@ -29,4 +29,4 @@ We strive to be an inclusive community. Be it the software we write or the langu
 </details>
 
 - [1] [Wikipedia article on scribes](https://en.wikipedia.org/wiki/Scribe).
-- [2] [Scribe on Wikimedia Phabricator](https://phabricator.wikimedia.org/project/profile/6000/)
+- [2] [Scribe on Wikimedia Phabricator](https://phabricator.wikimedia.org/project/profile/6000/).
