@@ -7,10 +7,11 @@
 [![wikidata](https://img.shields.io/badge/Wikidata-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/scribe_org)
+[![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
 Scribe[<sup>[1]</sup>](https://en.wikipedia.org/wiki/Scribe) is a community of language enthusiasts, learners and developers creating tools to help people communicate with confidence. Our current project is [Scribe-iOS](https://github.com/scribe-org/Scribe-iOS), a pack of iOS and iPadOS keyboards with features including translation, verb conjugation and word annotation. Creating an MVP for [Scribe-Android](https://github.com/scribe-org/Scribe-Android) is now a focus, with [Scribe-Desktop](https://github.com/scribe-org/Scribe-Desktop) then following.
 
-We strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/) that it's based on, coders and open-source supporters of any level are welcome!
+We strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
 <details><summary><strong>Articles and Presentations on Scribe</strong></summary>
 <p>
