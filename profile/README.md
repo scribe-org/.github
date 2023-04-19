@@ -13,6 +13,10 @@ Scribe[<sup>[1]</sup>](https://en.wikipedia.org/wiki/Scribe) is a community of l
 
 We strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
+### Try Scribe today!
+
+<a href='https://apps.apple.com/app/scribe-language-keyboards/id1596613886'><img alt='Available on the App Store' src='https://raw.githubusercontent.com/scribe-org/Scribe-iOS/main/.github/resources/images/app_store_badge.png' height='60px'/></a>
+
 <details><summary><strong>Articles and Presentations on Scribe</strong></summary>
 <p>
 
