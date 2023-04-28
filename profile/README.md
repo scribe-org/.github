@@ -6,6 +6,7 @@
 [![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Desktop)
 [![wikidata](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
+[![mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=ffffff)](https://wikis.world/@scribe)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/scribe_org)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
