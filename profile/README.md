@@ -6,6 +6,7 @@
 [![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Desktop)
 [![wikidata](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
+[![phabricator](https://img.shields.io/badge/Phabricator-153862.svg?logo=WikimediaFoundation&logoColor=ffffff)](https://phabricator.wikimedia.org/project/profile/6000/)
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=ffffff)](https://wikis.world/@scribe)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
@@ -18,7 +19,7 @@ Our current project are:
 
 Creating MVPs for [Scribe-Android](https://github.com/scribe-org/Scribe-Android) and [Scribe-Desktop](https://github.com/scribe-org/Scribe-Desktop) are also now priorities!
 
-We strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
+An official [Wikimedia project for new developers](https://www.mediawiki.org/wiki/New_Developers#Scribe)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/), we strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
 ### Try Scribe today!
 
