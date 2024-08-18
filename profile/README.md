@@ -7,6 +7,7 @@
 [![wikidata](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
 [![phabricator](https://img.shields.io/badge/Phabricator-153862.svg?logo=WikimediaFoundation&logoColor=ffffff)](https://phabricator.wikimedia.org/project/profile/6000/)
+[![weblate](https://img.shields.io/badge/Weblate-144D3F.svg?logo=weblate&logoColor=ffffff)](https://hosted.weblate.org/projects/scribe/scribe-i18n)
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=ffffff)](https://wikis.world/@scribe)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
@@ -19,7 +20,7 @@ Our current project are:
 
 Creating MVPs for [Scribe-Android](https://github.com/scribe-org/Scribe-Android) and [Scribe-Desktop](https://github.com/scribe-org/Scribe-Desktop) are also now priorities!
 
-An official [Wikimedia project for new developers](https://www.mediawiki.org/wiki/New_Developers#Scribe)[<sup>[2]</sup>](https://phabricator.wikimedia.org/project/profile/6000/), we strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
+An official [Wikimedia project for new developers](https://www.mediawiki.org/wiki/New_Developers#Scribe), we strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
 ### Try Scribe today!
 
@@ -54,4 +55,3 @@ An official [Wikimedia project for new developers](https://www.mediawiki.org/wik
 </details>
 
 - [1] [Wikipedia article on scribes](https://en.wikipedia.org/wiki/Scribe).
-- [2] [Scribe on Wikimedia Phabricator](https://phabricator.wikimedia.org/project/profile/6000/).
