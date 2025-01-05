@@ -3,7 +3,7 @@
 [![logo](https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png)](https://github.com/scribe-org)
 [![ios](https://img.shields.io/badge/iOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/scribe-org/Scribe-iOS)
 [![android](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Android)
-[![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Desktop)
+[![desktop](https://img.shields.io/badge/Desktop-0183DC.svg?logo=gnometerminal&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Desktop)
 [![wikidata](https://img.shields.io/badge/Data-990000.svg?logo=wikidata&logoColor=ffffff)](https://github.com/scribe-org/Scribe-Data)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
 [![phabricator](https://img.shields.io/badge/Phabricator-153862.svg?logo=WikimediaFoundation&logoColor=ffffff)](https://phabricator.wikimedia.org/project/profile/6000/)
