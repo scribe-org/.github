@@ -24,7 +24,10 @@ An official [Wikimedia project for new developers](https://www.mediawiki.org/wik
 
 ### Try Scribe today!
 
-<a href='https://apps.apple.com/app/scribe-language-keyboards/id1596613886'><img alt='Available on the App Store' src='https://raw.githubusercontent.com/scribe-org/Organization/main/resources/images/badges/app_store_badge.png' height='60px'/></a>
+<div align="left">
+  <a href='https://apps.apple.com/app/scribe-language-keyboards/id1596613886'><img alt='Available on the App Store' src='https://raw.githubusercontent.com/scribe-org/Organization/main/resources/images/badges/app_store_badge.png' height='80px'/></a>
+  <a href='https://apps.apple.com/app/scribe-language-keyboards/id1596613886'><img alt='App Store QR Code' src='https://raw.githubusercontent.com/scribe-org/Organization/main/promotional/qr_codes/scribe_ios_qr_code.png' height='80px'/></a>
+</div>
 
 <details><summary><strong>Articles and Presentations on Scribe</strong></summary>
 <p>
