@@ -17,6 +17,7 @@ Our current project are:
 
 - [Scribe-iOS](https://github.com/scribe-org/Scribe-iOS): A pack of iOS and iPadOS keyboards with features including translation, verb conjugation and word annotation
 - [Scribe-Data](https://github.com/scribe-org/Scribe-Data): A CLI that allows users to easily get language data packs from [Wikidata](https://www.wikidata.org/) and other sources
+- [Scribe-Server](https://github.com/scribe-org/Scribe-Server): A [Wikimedia Toolforge](https://admin.toolforge.org/) API to serve language data to Scribe client applications
 
 Creating MVPs for [Scribe-Android](https://github.com/scribe-org/Scribe-Android) and [Scribe-Desktop](https://github.com/scribe-org/Scribe-Desktop) are also now priorities!
 
