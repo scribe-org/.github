@@ -22,14 +22,14 @@ Our current project are:
 
 An official [Wikimedia project for new developers](https://www.mediawiki.org/wiki/New_Developers#Scribe), we strive to be an inclusive community. Be it the software we write or the language data from [Wikidata](https://www.wikidata.org/) and [Wiktionary](https://www.wiktionary.org/) that it's based on, coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
+> [!NOTE]
+> You can learn more about Scribe by checking out the [blog posts and presentations on our website](https://scri.be/docs/about/blog-posts).
+
+- [1] [Wikipedia article on scribes](https://en.wikipedia.org/wiki/Scribe).
+
 ### Try Scribe today!
 
 <div align="left">
   <a href="https://apps.apple.com/app/scribe-language-keyboards/id1596613886"><img alt="Available on the App Store" src="https://raw.githubusercontent.com/scribe-org/Organization/main/resources/images/badges/app_store_badge.png" width="270"/></a>
   <a href="https://apps.apple.com/app/scribe-language-keyboards/id1596613886"><img alt="App Store QR Code" src="https://raw.githubusercontent.com/scribe-org/Organization/main/promotional/qr_codes/scribe_ios_qr_code.png" width="80"/></a>
 </div>
-
-> [!NOTE]
-> You can learn more about Scribe by checking out the [blog posts and presentations on our website](https://scri.be/docs/about/blog-posts).
-
-- [1] [Wikipedia article on scribes](https://en.wikipedia.org/wiki/Scribe).
